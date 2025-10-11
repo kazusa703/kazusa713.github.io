@@ -1,0 +1,14 @@
+title: "今井 一察 | Kazusa Imai"
+description: "大学生の自己紹介と制作記録。費用を抑えて長く続けます。"
+lang: ja
+timezone: Asia/Tokyo
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+# ヘッダーナビに出したいページ
+header_pages:
+  - about.md
+  - links.md
+  - contact.md
+  - privacy.md
